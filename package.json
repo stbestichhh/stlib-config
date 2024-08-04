@@ -1,6 +1,6 @@
 {
   "name": "@stlib/config",
-  "version": "0.0.4",
+  "version": "0.0.4r",
   "description": "Utility for creating configs in node.js applications",
   "main": "dist/stutil.js",
   "types": "stutil.d.ts",
